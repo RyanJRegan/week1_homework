@@ -5,3 +5,5 @@ Expectation: I'd really like to get a very good handle of using git, and some ad
 Occupation: I am a tech support rep for Braintree, now owned by PayPal.
 
 Interesting Fact: I worked at Brookfield Zoo for 5 years, during the last two of which I ran a study on warthog behavior which involved me sitting in total silence for four hours a day, careful not to make my presence known whatsoever as three of the four warthogs there hated me with an undying passion. Interestingly the fourth warthog would let me scratch her belly and was otherwise very polite. Her name was Penny. 
+
+App Idea: The app I've envisioned would be one that helps people manage their food as purchased from grocery stores so they can run a budget. There would be numerous things taken into account, calorie information, nutrition information/classification, expriation dates, a daily update to items currently in stock, etc. 
