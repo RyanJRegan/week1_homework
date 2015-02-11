@@ -1,5 +1,0 @@
-Name: Ryan James Regan
-
-Expectation: I'd really like to get a very good handle of using git, and some additoinal experience with Ruby. I have devised a small project to start using in my daily routine/server to help me familiarize myself with utilizing github and to see what I can accomplish with crowdsourcing this. 
-
-Occupation: I am a tech support rep for Braintree, now owned by PayPal.
